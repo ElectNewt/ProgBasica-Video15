@@ -1,0 +1,11 @@
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\bin\Debug\netcoreapp2.2\video15-ref-out.deps.json
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\bin\Debug\netcoreapp2.2\video15-ref-out.runtimeconfig.json
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\bin\Debug\netcoreapp2.2\video15-ref-out.runtimeconfig.dev.json
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\bin\Debug\netcoreapp2.2\video15-ref-out.dll
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\bin\Debug\netcoreapp2.2\video15-ref-out.pdb
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\obj\Debug\netcoreapp2.2\video15-ref-out.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\obj\Debug\netcoreapp2.2\video15-ref-out.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\obj\Debug\netcoreapp2.2\video15-ref-out.AssemblyInfoInputs.cache
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\obj\Debug\netcoreapp2.2\video15-ref-out.AssemblyInfo.cs
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\obj\Debug\netcoreapp2.2\video15-ref-out.dll
+C:\Users\ivana\source\repos\video15-ref-out\video15-ref-out\obj\Debug\netcoreapp2.2\video15-ref-out.pdb
